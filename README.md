@@ -1,7 +1,5 @@
 # RESUME PORTFOLIO WEBSITE
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
-
 ### <a href="https://altaf53.github.io/">VISIT HERE</a>
 
 
