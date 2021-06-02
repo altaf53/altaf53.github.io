@@ -88,6 +88,12 @@
         "category": "",
         "image": "express-noodles.jpeg",
         "url": "https://www.linkedin.com/posts/altaf-ali-4a9923116_iot-arduino-nodemcu-activity-6676174504546463744-PrxX"
+      },
+      {
+        "title": "Netflix React Clone",
+        "category": "",
+        "image": "netflix-screenshot.JPG",
+        "url": "https://altaf53.github.io/netflix-build-youtube/"
       }
     ]
   },
